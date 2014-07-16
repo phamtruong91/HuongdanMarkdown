@@ -10,7 +10,7 @@ Hướng dẫn sử dụng Markdown
 1. Chèn hình ảnh
 1. Hiển thị code
 
----
+
 1) Các Thẻ Tiêu Đề: h1, h2, h3, h4…
 ---
 
@@ -35,7 +35,6 @@ Kết quả là:
 
 ####Thẻ H4
 
----
 2) Đoạn Văn Bản
 ----
 
@@ -118,7 +117,6 @@ ___
     1. Nội dung 3
     1. Nội dung 4
 
----
 
 Liên Kết
 ---
@@ -137,13 +135,15 @@ Thay tên link là Github ta được kết quả:
 
 [Github](https://github.com "Website github")
 
----
 
 Chèn Hình Ảnh
 ---
 
 Cấu trúc như sau: bắt đầu bằng kí tự !
 
+```sh
 ![Nội dung trong thẻ Alt](Đường Dẫn "Nội dung trong thẻ Title")
+```
 
-![Ảnh ](/image/smile.jpg "Smile"
+
+![Smile](http://i.imgur.com/MJ622DW.jpg "Smile")
