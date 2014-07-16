@@ -1,7 +1,6 @@
 Hướng dẫn sử dụng Markdown
 ================
 
----
 ##Nội dung trình bày
 1. Các thẻ tiêu đề
 1. Đoạn văn bản
