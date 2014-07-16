@@ -122,11 +122,11 @@ Liên Kết
 
 Để tạo liên kết bạn gõ như sau:
 
-    ```sh
-    [tên link](https://github.com)
+```sh
+[tên link](https://github.com)
     
-    [tên link với chú thích](https://github.com "Website github")
-    ```
+[tên link với chú thích](https://github.com "Website github")
+```
 
 Thay tên link là Github ta được kết quả:
 
