@@ -146,4 +146,3 @@ Cấu trúc như sau: bắt đầu bằng kí tự !
 
 
 ![Smile](http://i.imgur.com/MJ622DW.jpg "Smile")
-![TESA](http://www.picturesnew.com/media/images/image-background.jpg "girl")
